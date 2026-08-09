@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattappsaibagus-wq.github.io/tokyo-muslim-guide/sitemap.xml
